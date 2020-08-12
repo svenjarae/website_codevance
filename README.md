@@ -1,2 +1,3 @@
-# test
-this is a test
+# Alternative HG Bilder
+
+Alternative HG Bilder für die Codevance Startseite (Folie 2).
